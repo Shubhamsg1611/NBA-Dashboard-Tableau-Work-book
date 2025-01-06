@@ -1,5 +1,5 @@
 # NBA Dashboard-Tableau Work-book
-
+![](https://www.datascienceportfol.io/static/profile_pics/pr22_9540F8BAEDEAD06A46BE.jpg)
 ## Overview:
 
 This dashboard visualizes and analyzes basketball player performance using various statistical metrics. The primary aim is to provide insights into team and player performances, physical attributes, and the overall contribution of players to their teams and leagues. The data is interactive and can help coaches, analysts, and fans understand key trends and patterns.
